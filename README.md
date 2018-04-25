@@ -19,7 +19,7 @@ Practice:
 
 Works on my machine (с)
 ---
-![](https://www.dropbox.com/s/mmd345a0uoj3lpy/works_on_my_machine.jpg?dl=0)
+![](https://www.dropbox.com/s/mmd345a0uoj3lpy/works_on_my_machine.jpg)
 
 
 Docker concept
